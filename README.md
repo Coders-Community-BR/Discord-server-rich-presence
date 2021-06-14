@@ -7,6 +7,6 @@ Primeiramente clone o repositório na sua máquina. Após isso, na pasta do proj
 
 > `npm i` ou `yarn`
 >
-> node .
+> `node .`
 
 E pronto! Você já estará com o Rich Presence do nosso servidor enquanto deixar a aplicação rodando.

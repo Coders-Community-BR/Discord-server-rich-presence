@@ -5,7 +5,7 @@
 
 Primeiramente clone o repositório na sua máquina. Após isso, na pasta do projeto:
 
-> npm i discord-rpc
+> `npm i` ou `yarn`
 >
 > node .
 
